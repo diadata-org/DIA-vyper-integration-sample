@@ -85,7 +85,7 @@ def checkPriceAge(maxTimePassed: uint128) -> bool:
 
 # Running Tests
 
-In addition to the sample contract unit tests are also included. To run them [brownie](https://github.com/eth-brownie/brownie) and [ganache](https://github.com/trufflesuite/ganache) has to be installed. 
+In addition to the sample contract unit tests are also included [here](https://github.com/tajobin/DIA-vyper-integration-sample/blob/main/tests/test_sample.py). To run them [brownie](https://github.com/eth-brownie/brownie) and [ganache](https://github.com/trufflesuite/ganache) has to be installed. 
 
 With everything install you can run the tests with:
 ```

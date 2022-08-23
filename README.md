@@ -43,7 +43,7 @@ interface IDIAOracleV2:
     def getValue(key: String[7]) -> (uint128, uint128): nonpayable
 ``` 
 
-In this sample contract we are using a DIA oracle deployed on the ethereum mainnet, we define
+In this sample contract we are using a [DIA oracle deployed on the ethereum mainnet](https://docs.diadata.org/documentation/oracle-documentation/deployed-contracts#ethereum), we define
 an immutable variable where the address of the oracle is saved. 
 
 ```
